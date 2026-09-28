@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "04b4cd43-1ed7-4030-ab3f-03fa40b76130",
+  "path": "qa-visual-reporting",
+  "path_key": "qa-visual-reporting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

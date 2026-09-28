@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43997147-73c7-4063-8513-04331d32f3da",
+  "path": "pick-ui-library",
+  "path_key": "pick-ui-library",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

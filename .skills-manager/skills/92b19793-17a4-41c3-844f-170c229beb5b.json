@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "92b19793-17a4-41c3-844f-170c229beb5b",
+  "path": "gsap-performance",
+  "path_key": "gsap-performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

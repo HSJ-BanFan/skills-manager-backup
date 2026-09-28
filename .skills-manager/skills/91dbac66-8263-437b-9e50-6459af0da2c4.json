@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91dbac66-8263-437b-9e50-6459af0da2c4",
+  "path": "find-animation-opportunities",
+  "path_key": "find-animation-opportunities",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

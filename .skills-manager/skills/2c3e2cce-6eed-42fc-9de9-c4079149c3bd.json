@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2c3e2cce-6eed-42fc-9de9-c4079149c3bd",
+  "path": "ask-sonner",
+  "path_key": "ask-sonner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2cde6565-a6d0-4df4-948c-36696e337b2c",
+  "path": "gsap-scrolltrigger",
+  "path_key": "gsap-scrolltrigger",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

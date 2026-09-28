@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "faa0877b-52ae-418e-955b-c4163d812848",
+  "path": "gsap-plugins",
+  "path_key": "gsap-plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
