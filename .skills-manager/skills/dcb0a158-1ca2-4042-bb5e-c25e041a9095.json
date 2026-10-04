@@ -6,9 +6,9 @@
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "local",
-    "ref": null,
-    "subpath": null,
+    "type": "git",
+    "ref": "mattpocock/skills",
+    "subpath": "skills/engineering/setup-matt-pocock-skills",
     "branch": null
   }
 }
