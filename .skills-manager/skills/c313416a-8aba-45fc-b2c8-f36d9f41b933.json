@@ -6,9 +6,9 @@
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "local",
-    "ref": null,
-    "subpath": null,
-    "branch": null
+    "type": "git",
+    "ref": "emilkowalski/skills",
+    "subpath": "skills/animation-vocabulary",
+    "branch": "main"
   }
 }
