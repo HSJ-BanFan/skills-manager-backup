@@ -6,9 +6,9 @@
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "local",
-    "ref": null,
-    "subpath": null,
-    "branch": null
+    "type": "git",
+    "ref": "mattpocock/skills",
+    "subpath": "skills/engineering/codebase-design",
+    "branch": "main"
   }
 }
