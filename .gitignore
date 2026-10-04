@@ -4,8 +4,3 @@ Thumbs.db
 .skills-manager.lock
 __pycache__/
 *.pyc
-
-# skills-manager: oversized skills excluded from backup (auto-managed)
-/pixel-art-creator/
-/.skills-manager/skills/749e3dd9-eca5-4920-8293-a7ee2abc683d.json
-# skills-manager: end oversized skills
