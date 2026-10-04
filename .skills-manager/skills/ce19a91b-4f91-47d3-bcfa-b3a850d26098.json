@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce19a91b-4f91-47d3-bcfa-b3a850d26098",
+  "path": "principle-minimize-reader-load",
+  "path_key": "principle-minimize-reader-load",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

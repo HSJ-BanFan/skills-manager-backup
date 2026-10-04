@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed1d467d-e425-4d4a-97a9-e79b78741022",
+  "path": "principle-redesign-from-first-principles",
+  "path_key": "principle-redesign-from-first-principles",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

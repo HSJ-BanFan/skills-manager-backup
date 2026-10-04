@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "284b0144-adf6-41cb-a2ee-121178bbe2eb",
+  "path": "principle-laziness-protocol",
+  "path_key": "principle-laziness-protocol",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

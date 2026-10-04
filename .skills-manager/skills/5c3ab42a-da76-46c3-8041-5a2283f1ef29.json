@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c3ab42a-da76-46c3-8041-5a2283f1ef29",
+  "path": "principle-attack-the-premise",
+  "path_key": "principle-attack-the-premise",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

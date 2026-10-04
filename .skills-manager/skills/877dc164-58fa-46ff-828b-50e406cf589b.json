@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "877dc164-58fa-46ff-828b-50e406cf589b",
+  "path": "principle-subtract-before-you-add",
+  "path_key": "principle-subtract-before-you-add",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

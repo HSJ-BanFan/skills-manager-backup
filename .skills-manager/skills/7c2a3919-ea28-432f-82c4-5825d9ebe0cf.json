@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c2a3919-ea28-432f-82c4-5825d9ebe0cf",
+  "path": "bro",
+  "path_key": "bro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

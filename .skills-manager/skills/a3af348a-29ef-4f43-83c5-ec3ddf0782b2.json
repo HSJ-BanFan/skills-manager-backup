@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3af348a-29ef-4f43-83c5-ec3ddf0782b2",
+  "path": "Poteto Mode",
+  "path_key": "poteto mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

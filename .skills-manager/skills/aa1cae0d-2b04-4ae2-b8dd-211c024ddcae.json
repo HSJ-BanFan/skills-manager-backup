@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa1cae0d-2b04-4ae2-b8dd-211c024ddcae",
+  "path": "principle-prove-it-works",
+  "path_key": "principle-prove-it-works",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

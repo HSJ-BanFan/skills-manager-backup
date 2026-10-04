@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c695d912-aff5-4f1e-bf45-568108597179",
+  "path": "typescript-best-practices",
+  "path_key": "typescript-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

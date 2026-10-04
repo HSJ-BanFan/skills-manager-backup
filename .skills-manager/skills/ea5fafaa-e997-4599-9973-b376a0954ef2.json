@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea5fafaa-e997-4599-9973-b376a0954ef2",
+  "path": "principle-test-behavior-not-implementation",
+  "path_key": "principle-test-behavior-not-implementation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

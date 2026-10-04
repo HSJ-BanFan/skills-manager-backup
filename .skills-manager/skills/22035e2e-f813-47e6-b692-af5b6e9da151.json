@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22035e2e-f813-47e6-b692-af5b6e9da151",
+  "path": "principle-type-system-discipline",
+  "path_key": "principle-type-system-discipline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

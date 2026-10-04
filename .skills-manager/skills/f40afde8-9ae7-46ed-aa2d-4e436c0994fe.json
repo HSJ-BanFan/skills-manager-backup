@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f40afde8-9ae7-46ed-aa2d-4e436c0994fe",
+  "path": "principle-model-the-domain",
+  "path_key": "principle-model-the-domain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

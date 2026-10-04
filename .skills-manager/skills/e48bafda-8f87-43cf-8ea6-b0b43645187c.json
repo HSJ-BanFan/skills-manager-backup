@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e48bafda-8f87-43cf-8ea6-b0b43645187c",
+  "path": "arena",
+  "path_key": "arena",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

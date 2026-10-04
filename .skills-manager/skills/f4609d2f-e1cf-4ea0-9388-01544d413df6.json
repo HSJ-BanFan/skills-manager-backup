@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4609d2f-e1cf-4ea0-9388-01544d413df6",
+  "path": "recall",
+  "path_key": "recall",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

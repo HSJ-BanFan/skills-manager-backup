@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82ac11d9-1156-48b4-b5ca-6ba56d1ed535",
+  "path": "principle-exhaust-the-design-space",
+  "path_key": "principle-exhaust-the-design-space",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

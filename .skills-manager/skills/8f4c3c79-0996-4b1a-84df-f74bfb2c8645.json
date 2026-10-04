@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f4c3c79-0996-4b1a-84df-f74bfb2c8645",
+  "path": "interrogate",
+  "path_key": "interrogate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

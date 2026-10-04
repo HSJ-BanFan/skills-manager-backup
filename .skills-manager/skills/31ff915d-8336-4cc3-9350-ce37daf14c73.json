@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31ff915d-8336-4cc3-9350-ce37daf14c73",
+  "path": "figure-it-out",
+  "path_key": "figure-it-out",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

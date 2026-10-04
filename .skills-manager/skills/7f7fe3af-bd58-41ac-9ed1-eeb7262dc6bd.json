@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7f7fe3af-bd58-41ac-9ed1-eeb7262dc6bd",
+  "path": "principle-sequence-verifiable-units",
+  "path_key": "principle-sequence-verifiable-units",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

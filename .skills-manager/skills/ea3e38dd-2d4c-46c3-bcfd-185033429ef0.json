@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea3e38dd-2d4c-46c3-bcfd-185033429ef0",
+  "path": "principle-migrate-callers-then-delete-legacy-apis",
+  "path_key": "principle-migrate-callers-then-delete-legacy-apis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

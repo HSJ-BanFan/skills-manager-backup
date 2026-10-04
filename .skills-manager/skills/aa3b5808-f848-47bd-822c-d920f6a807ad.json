@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa3b5808-f848-47bd-822c-d920f6a807ad",
+  "path": "swarm",
+  "path_key": "swarm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
